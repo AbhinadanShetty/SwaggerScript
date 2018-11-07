@@ -1,2 +1,2 @@
 # SwaggerScript
-To convert swagger version 1.2 tp 2.0
+To convert swagger version 1.2 t0 2.0
